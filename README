@@ -1,8 +1,8 @@
-# Credit Risk Analysis
+## Credit Risk Analysis
 
 A Python and Power BI based project that analyzes loan data to identify default patterns, customer risk levels, and important factors affecting credit risk. The project includes data cleaning, feature engineering, risk scoring, analysis, and an interactive Power BI dashboard.
 
-# Features
+##Features
 
 - Cleans and prepares the credit risk dataset.
 - Handles missing and incorrect data.
@@ -13,7 +13,7 @@ A Python and Power BI based project that analyzes loan data to identify default 
 - Creates visualizations to understand credit risk patterns.
 - Provides an interactive Power BI dashboard.
 
-# How to Use
+## How to Use
 
 - Open `Credit_Risk_Portfolio_Analysis.ipynb` in Jupyter Notebook or Google Colab.
 - Place the dataset in the same folder as the notebook.
@@ -21,14 +21,14 @@ A Python and Power BI based project that analyzes loan data to identify default 
 - The cleaned dataset is exported as `credit_risk_clean.csv`.
 - Open the Power BI file in the `dashboard` folder to explore the dashboard.
 
-# Dashboard
+## Dashboard
 
 The Power BI dashboard shows risk segments, default rates, loan amount and income analysis, along with filters for loan purpose, risk tier, and loan grade.
 
-# Dataset
+## Dataset
 
 Dataset obtained from Kaggle. The original dataset is not included in this repository. The cleaned dataset used for the project is provided as `credit_risk_clean.csv`.
 
-# Tools Used
+## Tools Used
 
 Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI
